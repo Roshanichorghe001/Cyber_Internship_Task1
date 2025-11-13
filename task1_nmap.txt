@@ -1,0 +1,14 @@
+# Nmap 7.94SVN scan initiated Thu Nov 13 20:06:31 2025 as: nmap -sS -oN port_scan_results.txt 10.211.81.0/24
+Nmap scan report for _gateway (10.211.81.X)
+Host is up (0.011s latency).
+Not shown: 999 closed tcp ports (reset)
+PORT   STATE SERVICE
+53/tcp open  domain
+MAC Address: 56:5B:43:C0:0A:4F (Unknown)
+
+Nmap scan report for dell-Latitude-5320 (10.211.81.X)
+Host is up (0.0000090s latency).
+All 1000 scanned ports on dell-Latitude-5320 (10.211.81.X) are in ignored states.
+Not shown: 1000 closed tcp ports (reset)
+
+# Nmap done at Thu Nov 13 20:06:34 2025 -- 256 IP addresses (2 hosts up) scanned in 2.93 seconds
